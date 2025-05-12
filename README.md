@@ -1,0 +1,5 @@
+1. Pie Chart of Total Electricity by other sources + solar (top leftmost)
+2. line chart of 2023 dropdown and ged 2024 (top rightmost)
+3. Total savings line chart (middle leftmost)
+4. Total consumption dropdown year 2023 2024 (middle rightmost)
+   5 line chart of price (bottom)
